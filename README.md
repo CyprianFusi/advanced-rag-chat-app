@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/CyprianFusi/advanced-rag-chat-app/main/public/binati_logo.png" alt="BINATI AI Logo" width="150"/>
+  <img src="https://raw.githubusercontent.com/CyprianFusi/advanced-rag-chat-app/main/public/binati_logo.png" alt="BINATI AI Logo" width="75"/><strong>Binati AInalytics</strong>
 
   # Advanced Multi-Files RAG Chat App
 
